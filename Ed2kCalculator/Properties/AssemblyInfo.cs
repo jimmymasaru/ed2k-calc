@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 
 [assembly: AssemblyTitle("Ed2k Hash Calculator")]
-[assembly: AssemblyVersion("1.0.0")]
+[assembly: AssemblyVersion("1.1.0")]
 [assembly: AssemblyDescription("Ed2k Hash Calculator")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
